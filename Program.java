@@ -4,6 +4,9 @@ public class Program {
 
 		System.out.println("Hello World!");
 		int zmienna = 5;
+		String name = "Zbyszek";
+		String login = "User";
+		String password = "abc123";
 
 }
 
