@@ -8,6 +8,7 @@ public class Program {
 		String login = "User";
 		String password = "abc123";
 		float pi = 3.14f;
+		boolean logOff = false;
 
 }
 
