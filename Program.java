@@ -7,6 +7,7 @@ public class Program {
 		String name = "Zbyszek";
 		String login = "User";
 		String password = "abc123";
+		float pi = 3.14f;
 
 }
 
